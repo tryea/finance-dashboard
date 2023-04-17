@@ -1,6 +1,4 @@
 import DashboardBox from "@/components/DashboardBox";
-import { useGetKpisQuery } from "@/state/api";
-import { useTheme } from "@mui/material";
 
 const Row3 = () => {
 
